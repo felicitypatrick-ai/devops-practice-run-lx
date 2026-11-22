@@ -2,3 +2,4 @@
 
 This repository is where I practice making changes and pipelines.
 It is for my SDC332 DevOps and CI/CD class.
+Prices are checked on every change.
